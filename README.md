@@ -25,4 +25,4 @@ The model's performance is evaluated using various metrics, including accuracy, 
 
 
 
-_Contributions to this project are welcome. If you have ideas for improvements or want to fix issues, please create a pull request. For major changes, please open an issue first to discuss the proposed changes._
+**Author** devanshu3
