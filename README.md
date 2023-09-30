@@ -23,6 +23,4 @@ We use a Multi-Layer Perceptron (MLP) classifier to predict poker hands. The mod
 ## Evaluation
 The model's performance is evaluated using various metrics, including accuracy, ROC curves, classification reports, and class prediction errors. These metrics help assess how well the model classifies different poker hands.
 
-
-
 **Author** devanshu3
